@@ -18,4 +18,4 @@ function findSecondLargest(numbers) {
     return secondLargest[1] === -Infinity ? -1 : secondLargest[1];
 }
 
-console.log(findSecondLargest([1, 2, 3, 3,3 , 5, 9, 0, 9]));
+console.log(findSecondLargest([1, 2, 3, 3, 3, 5, 9, 0, 9]));
